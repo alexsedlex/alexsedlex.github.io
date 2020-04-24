@@ -117,3 +117,24 @@ Voici quelques liens qui me semblent intéressant pour poursuivre les thèmes é
 * **Interview de Maxime Guedj** - article de franceinfo dans lequel les enjeux libre vs GAFAM y sont [bien résumés](https://www.francetvinfo.fr/culture/livres/internet-peut-redevenir-un-bien-commun-si-nous-nous-emparons-des-outils-alternatifs-aux-gafam-entretien-avec-maxime-guedj-co-auteur-de-declic_3919083.html)
 * **Déclic** de Maxime Guedj et Anne-Sophie Jacques, je ne l'ai pas encore lu mais ça ne saurais tarder :) [Dispo ici](http://www.arenes.fr/livre/declic/)
 
+## F.A.Q.
+
+Plusieurs lecteurs m'ont posé des questions suite à cet article, je tente d'y répondre ici.
+
+> Par quel biais une entreprise réalise-t-elle ses bénéfices dans le cadre du libre accès aux outils conçus?
+
+Les business-models sont variés. Quelques exemples (mais ça méritera un autre billet plus complet) :
+* Financement des développements par des entreprises
+* Financement des développements par des fonds publics (État, colectivités...)
+* Prestations d'installation et de maintenance des solutions libres (e.g. aller installer et configurer Libre-Office sur un parc de machines)
+* Expertises sur la mise en place (quels logiciels choisirs, comment les architecturer pour répondre au besoin)
+* Prestations de formations professionelles à l'utilisation ou l'extension de l'outil
+* Je suppose que certains développements sont éligibles au Crédit Impôt Recherche (CIR) ou autre subventions
+
+> Tu évoques l'implications de tous dans le processus de commercialisation. Qu'en est-il de la problématique de la propriété intellectuelle et des droits d'auteurs?
+
+La définition d'un logiciel libre est qu'il doit être développé sous une license de propriété intellectuelle libre. Tu dois pouvoir le copier, redistribuer, modifier pour qu'il soit qualifié de libre. Pas de droits d'auteurs, donc. Il y a là aussi beaucoup à dire, il existe tout un tas de licences libres, certaines "relax" (tu as le droit de commercialiser un outil réalisé à partir d'une brique libre) ou plus "strictes" (tout logiciel construit à partir d'une brique libre doit lui aussi être libre)
+
+> Qu'advient-il alors de la part investissement du profit? Dans ton texte tu émets les trois voix classiques de redistribution dans les salaires sans évoquer l'investissement.
+
+L'investissement dans l'outil de production (achat d'ordinateurs, de serveurs, développement d'outils interne) se réalise comme dans toute entreprise classique (je précise bien _"hors investissement dans l'outil de production"_)
