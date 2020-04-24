@@ -5,6 +5,8 @@ toc: true
 categories:
   - entreprise_libre
   - logiciel_libre
+header:
+  teaser: /assets/images/post2/teaser.gif
 ---
 Le cauchemar
 - arbre : effreyant mais c'est aussi la richesse, pleins de distros pour pleins d'usages, c'est top ! et surtout on peut tester en USB

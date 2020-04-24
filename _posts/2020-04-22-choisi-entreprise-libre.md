@@ -5,6 +5,8 @@ toc: true
 categories:
   - entreprise_libre
   - logiciel_libre
+header:
+  teaser: /assets/images/post1/teaser.gif
 ---
 Dans quelques jours, j'aurais le plaisir de rejoindre les équipes de [Code Lutin](https://codelutin.com) (je travaillais depuis 6 ans en tant que CTO d'iRéalité - [tout est détaillé là](/about/#a-propos-de-moi)). Il me semble intéressant, en guise de premier article et pour qu'on apprenne à se connaitre, de revenir sur les raisons qui m'ont poussées à rejoindre cette boîte, et par là même le [réseau Libre-Entreprise](http://www.libre-entreprise.org/) et l'[April](https://www.april.org/), entre autres associations au sein desquelles agit Code Lutin.
 
